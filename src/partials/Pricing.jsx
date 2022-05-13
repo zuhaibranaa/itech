@@ -3,7 +3,7 @@ import styles from "../partials/styles/Pricing.css";
 
 function Pricing() {
   return (
-    <div className="container my-5 px-2 mx-auto">
+    <div id="packages" className="container my-5 px-2 mx-auto">
       {/* <!-- Section: Design Block --> */}
       <section className="mb-32 text-gray-800">
         <div

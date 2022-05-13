@@ -88,7 +88,7 @@ function Hero() {
                     data-mdb-ripple="true"
                     data-mdb-ripple-color="light"
                   >
-                    User Reviews
+                    Customer Reviews
                   </a>
                 </li>
                 <li className="nav-item mb-2 lg:mb-0">
